@@ -34,9 +34,3 @@ Waves & Levels
 Five waves, if player defeats all enemies and survives, player wins.
 If player does not survive all five waves, player loses.
 
-
-In Game SS (Add relevant screenshots)
-
-Project Structure (Add graphs)
-
-Project Hierarchy (Add code screenshot)
